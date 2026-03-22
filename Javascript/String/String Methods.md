@@ -4,6 +4,8 @@ Strings are immutable means whenever we made some changes to the string it will 
 
 Common Syntax = strName.methodName()
 
+## Methods
+
 - trim : trims whitespaces from both ends of the string.
 
 - toUpperCase : convert all characters to uppercase.
