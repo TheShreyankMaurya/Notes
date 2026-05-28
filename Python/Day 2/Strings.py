@@ -29,7 +29,7 @@ print("The sentance ends with er. : ", stn.endswith("er."))
 # capitalize - capitalize first letter.
 print("Capitalize : ", stn.capitalize())
 
-# replace - replaces all occurence of old with new.
+# replace - replaces all occurence of old with new and returns a new copy.
 print("Replaced : ", stn.replace("a", "t"))
 
 # find - returns the index of 1st occurence.
